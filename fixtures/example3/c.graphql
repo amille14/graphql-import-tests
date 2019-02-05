@@ -1,0 +1,7 @@
+type C {
+  correct: String
+}
+
+type A {
+  incorrect: String
+}

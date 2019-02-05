@@ -1,0 +1,8 @@
+type A {
+  something: String
+  b: B
+}
+
+type B {
+  something: String
+}

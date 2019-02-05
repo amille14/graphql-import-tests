@@ -1,0 +1,7 @@
+type Query {
+  getA: A!
+}
+
+type A {
+  b: B
+}

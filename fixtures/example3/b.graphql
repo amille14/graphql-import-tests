@@ -1,0 +1,5 @@
+type B {
+  a: A
+  c: C
+  correct: String
+}
